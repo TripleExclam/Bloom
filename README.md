@@ -36,3 +36,6 @@ A client-side React application that records your screen with a picture-in-pictu
 -   Tailwind CSS
 -   MediaStream Recording API
 -   Web Audio API
+
+
+By Matt Burton
